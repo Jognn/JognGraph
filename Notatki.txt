@@ -1,0 +1,3 @@
+RDP - line simplification
+
+Catmull-Rom - curvature
